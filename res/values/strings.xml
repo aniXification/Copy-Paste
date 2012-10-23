@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Copy Paste</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Clipboard</string>
+    <string name="main_no_items">No cliboard items to display. Copy text. Paste the text here, with the button bottom left.</string>
+    <string name="splash_message">Copy-Paste</string>
+    <string name="paste">Paste</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="logo_desc">Logo</string>
+    <string name="rate">Rate this app</string>
+    <string name="share">Share</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_app_info">About Copy-Paste</string>
+ 
+    <string name="about">About Copy Paste</string>
+    <string name="appInfo_details">Searching for an app to paste the text in your phone? It should no more be a burden. 
+        With "Copy-Paste", its easy to paste the text to and copy your saved texts in a single click. Delete it from the list, with long press if it is no useful.</string>
+        
+    <string name="share">Share</string>
+    <string name="share_message">Copy Paste to/from android app has never been easier. https://play.google.com/store/apps/details?id=com.aniXification.copypaste </string>
+    
+    <string name="versionName">Version 1.0.4</string>
+    <string name="let_us_know">Let us know about a bug or problem.</string>
+ 
+</resources>

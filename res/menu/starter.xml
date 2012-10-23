@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Theme.Sherlock" >
+
+    <item
+        android:id="@+id/paste"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/paste"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/paste"/>
+    <item
+        android:id="@+id/appinfo"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/about"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/about"/>
+    
+<!--     <item
+        android:id="@+id/share"
+        style="@style/Theme.Sherlock"
+        android:title="@string/share"
+        android:showAsAction="ifRoom|withText"
+        android:actionProviderClass="com.actionbarsherlock.widget.ShareActionProvider"
+    /> -->
+
+</menu>
